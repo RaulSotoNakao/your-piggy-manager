@@ -1,0 +1,7 @@
+{
+  "name": "your-piggy-manager",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
